@@ -106,7 +106,7 @@ const Login = () => {
       <div className="w-1/2 bg-indigo-600 flex items-center justify-center">
         <div className="max-w-md text-white px-10">
           <FiLock className="text-5xl mb-4" />
-          <h2 className="text-4xl font-bold mb-4">Secure Access to NOTE-APP</h2>
+          <h2 className="text-4xl font-bold mb-4">Secure Access To GoodNotes</h2>
           <p className="text-xl mb-6">
             Sign in to access your notes, ideas, and important information. Your digital notebook awaits!
           </p>

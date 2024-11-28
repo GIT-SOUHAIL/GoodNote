@@ -118,7 +118,7 @@ const Signup = () => {
       <div className="w-1/2 bg-indigo-600 flex items-center justify-center">
         <div className="max-w-md text-white px-10">
           <FiFileText className="text-5xl mb-4" />
-          <h2 className="text-4xl font-bold mb-4">Welcome to NOTE-APP</h2>
+          <h2 className="text-4xl font-bold mb-4">Welcome to GoodNotes</h2>
           <p className="text-xl mb-6">
             Organize your thoughts, capture ideas, and boost your productivity with our intuitive note-taking application.
           </p>
